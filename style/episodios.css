@@ -1,0 +1,42 @@
+.e-container{
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+}
+
+.e-container h1{
+    font-family: 'Trubechet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+
+
+
+.conteudo{
+    display: flex;
+    /* flex-wrap: wrap; */
+}
+
+.player{
+    width: 80%;
+}
+
+.episodios{
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+    background-color: #2b2a2a;
+    border: 2px solid #fff;
+    border-radius: 15px;
+}
+
+.episodios a{
+    text-decoration: none;
+}
+
+.episodio{
+    padding: 1rem 4rem ;
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #ffffff;
+    color: #ffffff;
+}
+
