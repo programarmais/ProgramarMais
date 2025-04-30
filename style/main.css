@@ -45,7 +45,7 @@ header .container{
 
 .filme-principal{
     font-size: 15px;
-    background:linear-gradient(rgba(0,0,0, .50), rgba(0,0,0,50) 100%), url(./src/banner.png);
+    background:linear-gradient(rgba(0,0,0, .50), rgba(0,0,0,50) 100%), url(../src/banner.png);
     height: 700px;
     background-size: cover;
     background-position: center;
